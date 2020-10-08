@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Shinytures/static/css/main.5089a322.chunk.css",
-    "main.js": "/Shinytures/static/js/main.985d39af.chunk.js",
-    "main.js.map": "/Shinytures/static/js/main.985d39af.chunk.js.map",
+    "main.css": "/Shinytures/static/css/main.74e59911.chunk.css",
+    "main.js": "/Shinytures/static/js/main.c876d40a.chunk.js",
+    "main.js.map": "/Shinytures/static/js/main.c876d40a.chunk.js.map",
     "runtime-main.js": "/Shinytures/static/js/runtime-main.293480be.js",
     "runtime-main.js.map": "/Shinytures/static/js/runtime-main.293480be.js.map",
     "static/js/2.273e137b.chunk.js": "/Shinytures/static/js/2.273e137b.chunk.js",
     "static/js/2.273e137b.chunk.js.map": "/Shinytures/static/js/2.273e137b.chunk.js.map",
     "index.html": "/Shinytures/index.html",
-    "precache-manifest.ea594d5b88800cd7c759d06e8cb8a8ab.js": "/Shinytures/precache-manifest.ea594d5b88800cd7c759d06e8cb8a8ab.js",
+    "precache-manifest.4bed5827ebb6bed4e70fc1d3b6e1867d.js": "/Shinytures/precache-manifest.4bed5827ebb6bed4e70fc1d3b6e1867d.js",
     "service-worker.js": "/Shinytures/service-worker.js",
-    "static/css/main.5089a322.chunk.css.map": "/Shinytures/static/css/main.5089a322.chunk.css.map",
+    "static/css/main.74e59911.chunk.css.map": "/Shinytures/static/css/main.74e59911.chunk.css.map",
     "static/js/2.273e137b.chunk.js.LICENSE.txt": "/Shinytures/static/js/2.273e137b.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/Shinytures/static/media/BungeeLayers-Regular.9b64cf96.otf",
     "static/media/Hamburger_icon.svg": "/Shinytures/static/media/Hamburger_icon.b5098bdc.svg",
     "static/media/Logotipo_shinytures.png": "/Shinytures/static/media/Logotipo_shinytures.976f7be5.png",
     "static/media/Original.png": "/Shinytures/static/media/Original.2a810a63.png",
     "static/media/Shinitures_logo_final_sbx.png": "/Shinytures/static/media/Shinitures_logo_final_sbx.17cf745b.png",
-    "static/media/Shinytures.gif": "/Shinytures/static/media/Shinytures.a7641de6.gif",
+    "static/media/Shinytures.mp4": "/Shinytures/static/media/Shinytures.3482b293.mp4",
     "static/media/Contact.css": "/Shinytures/static/media/website-optimization.64dcce6a.png",
     "static/media/logoLetra.png": "/Shinytures/static/media/logoLetra.509a4fbc.png",
     "static/media/mechanic1.png": "/Shinytures/static/media/mechanic1.0a249fac.png"
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.293480be.js",
     "static/js/2.273e137b.chunk.js",
-    "static/css/main.5089a322.chunk.css",
-    "static/js/main.985d39af.chunk.js"
+    "static/css/main.74e59911.chunk.css",
+    "static/js/main.c876d40a.chunk.js"
   ]
 }
