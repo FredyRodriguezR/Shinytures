@@ -9,3 +9,9 @@
     background: linear-gradient(180deg, rgba(149,0,255,1) 0%, rgba(88,9,121,1) 35%, rgba(83,2,115,1) 100%);
     padding-bottom: 100px;
 }
+
+#blogs{
+    background: rgb(83,2,115);
+    background: linear-gradient(180deg, rgba(83,2,115,1) 0%, rgba(88,9,121,1) 35%, rgba(149,0,255,1) 100%);
+    padding-bottom: 100px;
+}

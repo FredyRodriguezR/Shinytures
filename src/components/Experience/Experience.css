@@ -1,0 +1,126 @@
+.Experience-details h2{
+    margin:0px;
+    padding: 20px;
+    padding-bottom: 15px;
+    text-align: center;
+    color: white;
+    font-family: BungeeRegular;
+    
+}
+
+.blog-imageContainer{
+    margin: 0;
+}
+
+.blog-title{
+    color: white;
+    font-family: BungeeRegular;
+    font-size: 15;
+}
+
+.blog{
+    margin: 10px;
+    width: 480px;
+    background:rgb(42, 52, 99);
+    border-radius: 10px;
+    flex-shrink: 0;
+    overflow: hidden;
+    box-shadow: 3px 5px 33px#888888;
+    transition: 300ms;
+}
+
+.blog:hover 
+{
+    transform: scale(1.01);
+}
+
+.Experience{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.blog img{
+    width: 480px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.blog-details{
+    margin: 20px 40px;
+    background: rgb(83,2,115);
+    background: linear-gradient(180deg, rgba(83,2,115,1) 0%, rgba(88,9,121,1) 35%, rgba(149,0,255,1) 100%);
+    margin-top: -40px;
+    position: relative;
+    padding: 20px;
+    text-align: center;
+    border-radius: 13px;
+}
+
+.blog-description{
+    text-align: left;
+    font-family: BungeeInline;
+    font-size: 15px;
+    color: white;
+}
+
+.blog-url{
+    font-size: 10px;
+    color: white;
+    border: 1px solid;
+    padding: 5px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: BungeeRegular;
+}
+
+.blog-url:hover{
+    background: white;
+    color: rgb(42, 52, 99);
+    transition: 0.5s;
+}
+
+@media screen and (max-width: 767px){
+    .blog {
+        width: 460px;
+        font-size: 16px;
+    }
+
+    .blog img{
+        width: 460px;
+        height: 180px;
+    }
+
+}
+
+@media screen and (max-width: 479px){
+    .blog-details{
+        margin: 0.5em 2em;
+        margin-top: -2em;
+        position: relative;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .blog {
+        width: 300px;
+        font-size: 12px;
+    }
+
+    .blog img{
+        width: 300px;
+        height: 100px;
+    }
+
+    .blog-title{
+        font-size: 1.2em;
+    }
+
+    .blog-description{
+        font-size: 0.8em;
+    }
+
+    .Experience-details h2{
+        font-size: 1em;
+    }
+}

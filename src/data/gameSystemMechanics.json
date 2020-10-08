@@ -1,12 +1,16 @@
 {
-    "data": 
-    [
+    "data": [
         {
             "urlOn": false,
             "title": "Hunting Creatures (Monsters):",
-            "description": "The player can attack the monsters that live outside the ranch to drop food for the Sandbox Pets.",
-            "imgUrl": "mechanics/mechanic1.png"
+            "description": "The player can attack the monsters that live outside the ranch to drop energy for the Shinytures.",
+            "imgUrl": "mechanic2.mp4"
+        },
+        {
+            "urlOn": false,
+            "title": "Hatching Eggs:",
+            "description": "The player can send the Shinyture to the hatching machines so that the new Shinytures are born.",
+            "imgUrl": "mechanic1.mp4"
         }
-        
     ]
 }

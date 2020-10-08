@@ -22,21 +22,21 @@ function GameSystem(props) {
 }
 
 function Mechanic(props) {
-      return (
+    return (
         <article className="mechanic">
-          <div className="mechanic-details">
-            <h3 className="mechanic-title">{props.mechanic.title}</h3>
-            <p className="mechanic-description">{props.mechanic.description}</p>
-          </div>
-          <figure className="mechanic-imageContainer">
-              <img src={require(`../../images/${props.mechanic.imgUrl}`)} 
-              className="mechanic-image" alt={props.mechanic.title} 
-              width="450"
-              key = {props.mechanic.imgUrl}
-              ></img>
-          </figure>
+            <div className="mechanic-details">
+                <h3 className="mechanic-title">{props.mechanic.title}</h3>
+                <p className="mechanic-description">{props.mechanic.description}</p>
+            </div>
+            <figure className="mechanic-imageContainer">
+                <video controls
+                    className="mechanic-image" alt={props.mechanic.title}
+                    width="100%"
+                    key={props.mechanic.imgUrl}
+                ><source src={require(`../../video/${props.mechanic.imgUrl}`)} type="video/mp4" /></video>
+            </figure>
         </article>
-      );
-  }
+    );
+}
 
 export default GameSystem;
