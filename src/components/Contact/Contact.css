@@ -1,0 +1,70 @@
+.Contact{
+    background: rgb(42, 52, 99);
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.social-link{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+    margin: 0 10px;
+}
+
+.social-link.twitter{
+    background-image: url('../../images/twitter.svg');
+}
+
+.social-link.facebook{
+    background-image: url('../../images/facebook.svg');
+}
+
+.social-link.github{
+    background-image: url('../../images/github.svg');
+}
+
+.social-link.instagram{
+    background-image: url('../../images/instagram.svg');
+}
+
+.social-link.linkedin{
+    background-image: url('../../images/linkedin-logo.svg');
+}
+
+.social-link.steam{
+    background-image: url('../../images/logoSteam.png');
+    background-size: cover;
+}
+
+.social-link:hover{
+    border: 1px solid white;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+@media screen and (max-width: 766px){
+    .Contacto {
+        height: auto;
+        padding: 1em 0;
+        text-align: center;
+        display: block;
+    }
+
+    /*.submit-button{
+        margin: 1em auto;
+    }*/
+    
+}
+
+@media screen and (max-width: 479px){
+    .social-link{
+        height: 40px;
+        width: 40px;
+        background-size: 40px;
+    }
+}

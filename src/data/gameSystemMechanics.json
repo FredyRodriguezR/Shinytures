@@ -1,0 +1,12 @@
+{
+    "data": 
+    [
+        {
+            "urlOn": false,
+            "title": "Hunting Creatures (Monsters):",
+            "description": "The player can attack the monsters that live outside the ranch to drop food for the Sandbox Pets.",
+            "imgUrl": "mechanics/mechanic1.png"
+        }
+        
+    ]
+}

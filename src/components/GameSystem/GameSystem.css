@@ -1,0 +1,164 @@
+.GameSystem-Title{
+    text-align: center;
+    color: white;
+    font-family: BungeeRegular;
+    margin: 0;
+}
+
+.GameSystem-details{
+    background: #fafafa;
+}
+.mechanic{
+    background: rgb(42, 52, 99);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.mechanic-details h2{
+    margin:0px;
+    padding: 20px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.mechanic{
+    box-shadow: 3px 5px 33px#888888;
+    border-radius: 10px;
+    margin: 10px;
+    margin-bottom: 15px;
+    padding: 20px;
+    background: rgb(42, 52, 99);
+    flex-shrink: 0;
+    align-items: center; 
+    display: flex;
+    flex-wrap: wrap;
+    transition: 300ms;
+    justify-content: center;
+}
+
+.mechanic:hover 
+{
+    transform: scale(1.01);
+}
+
+.mechanic-details {
+    width: 450px;
+    transition: 300ms;
+    
+    color: white;
+}
+
+.mechanic-imageContainer{
+    width: 450px;
+    margin: auto;
+    padding: 20px;
+    object-fit: cover;
+    transition: 300ms;
+}
+
+.mechanic-title{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: white;
+    font-family: BungeeRegular;
+}
+
+.mechanic-technology,.mechanic-date,.mechanic-url{
+    margin: 10px 0px;
+
+}
+
+.mechanic-description{
+    font-size: 20px;
+    color: white;
+    font-family: BungeeInline;
+    text-align: justify;
+}
+
+.mechanic strong{
+    font-family: 'Fjalla One', Times, serif;
+    
+    color: white;
+}
+
+.GameSystem .container{
+    max-width: 1000px;
+}
+
+@media screen and (max-width: 1023px){
+    .mechanic{
+        display: block;
+    }
+    .mechanic-details {
+        width: 650px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .mechanic-details {
+        width: 420px;
+        font-size: 16px;
+    }
+
+    .mechanic-imageContainer{
+        width: 380px;
+        margin: auto;
+        object-fit: cover;
+    }
+
+    .mechanic-imageContainer img{
+        width: 380px;
+    }
+
+    .mechanic-title{
+        font-size: 1.5em;
+        margin-bottom: 0.3em;
+    }
+
+    .mechanic-url{
+        font-size: 1em;
+    }
+
+    .mechanic-technology{
+        font-size: 0.7em;
+    }
+
+    .mechanic-date{
+        font-size: 1em;
+    }
+
+    .mechanic-description{
+        font-size: 0.8em;
+    }
+
+    .mechanic-technology .mechanic-date .mechanic-url{
+        margin: 0.3em 0;
+    }
+
+}
+
+@media screen and (max-width: 479px){
+    .mechanic{
+        width: 260px;
+    }
+    .mechanic-details {
+        width: 260px;
+        font-size: 12px;
+    }
+
+    .mechanic-imageContainer{
+        width: 220px;
+        margin: auto;
+        object-fit: cover;
+    }
+
+    .mechanic-imageContainer img{
+        width: 220px;
+    }
+
+    .Portafolio-details h2{
+        font-size: 1em;
+    }
+}

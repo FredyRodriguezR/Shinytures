@@ -1,0 +1,138 @@
+.App-header {
+    background-color: rgb(42, 52, 99);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 77px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+@font-face {
+    font-family: BungeeRegular;
+    src: url(../../fonts/BungeeLayers-Regular.otf);
+  }
+
+  @font-face {
+    font-family: BungeeInline;
+    src: url(../../fonts/BungeeLayers-Inline.otf);
+  }
+
+.App-header a {
+    font-family: BungeeRegular;
+    color: white;
+    text-decoration: none;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.menu {
+    height: inherit;
+}
+
+.App-header ol {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    height: inherit;
+}
+
+.App-header ol li {
+    height: inherit;
+}
+
+.container {
+    max-width: 1500px;
+    flex: 1;
+    margin: 0 auto;
+    display: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+    height: inherit;
+    flex-wrap: inherit;
+    padding: 0 0.5em;
+}
+
+.container.header {
+    box-shadow: 1px 3px 15px -4px #888888;
+    position: relative;
+}
+
+.burger-button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.8);
+    display: none;
+    line-height: 40px;
+    text-align: center;
+    position: fixed;
+    z-index: 4;
+    left: 5px;
+    top: 5px;
+    color: white;
+}
+
+.App-header .logo {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 65px;
+}
+
+@media screen and (min-width: 768px) {
+    .link:hover {
+        color: rgb(145, 237, 255);
+        transition: 0.5s;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container.header {
+        z-index: 3;
+    }
+}
+
+@media screen and (max-width: 766px) {
+    .App-header {
+        display: block;
+        height: auto;
+    }
+    .App-header ol {
+        display: initial;
+    }
+    .App-header ol li {
+        height: 50px;
+    }
+    .App-header a {
+        justify-content: center;
+        height: 40px;
+        font-size: 2em;
+        text-decoration: underline;
+        margin-bottom: 0.5em;
+    }
+    .App-header .container {
+        text-align: center;
+    }
+    .burger-button {
+        display: block;
+    }
+    .menu {
+        position: fixed;
+        background: rgba(0, 213, 195, 0.8);
+        top: 0;
+        left: -100vw;
+        width: 100vw;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: .3s;
+    }
+    .menu.is-active {
+        left: 0;
+    }
+}
