@@ -6,6 +6,7 @@
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 .social-link{
@@ -38,6 +39,11 @@
 
 .social-link.steam{
     background-image: url('../../images/logoSteam.png');
+    background-size: cover;
+}
+
+.social-link.website{
+    background-image: url('../../images/website-optimization.png');
     background-size: cover;
 }
 

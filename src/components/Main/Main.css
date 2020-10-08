@@ -1,10 +1,4 @@
 .Main{
-    height: 900px;
-    /*background-image: url('../images/hero.jpg');*/
-    /*background-color: #1b2127;*/
-    /*background-size: 500px 300px;*/
-    /*background-repeat: no-repeat;*/
-    /*background-position-x: right; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -17,24 +11,27 @@
 }
 
 .logoshinytures{
-    width: 25%;
+    width: 380px;
     position: absolute;
 }
 
 .Main-Containar-Image{
     display: flex;
     justify-content: center;
-    box-shadow: 3px 5px 33px#888888;
     align-items: center;
+    box-shadow: 3px 5px 33px#888888;
 }
 
 .Main-Containar-Image video{
-    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
     opacity: 50%;
 } 
 
 .tsbButton{
-    width: 270px;
+    width: 200px;
     position: absolute;
     bottom: 116px;
 }
@@ -43,6 +40,7 @@
     width: 100%;
     background: rgb(1, 117, 178);
     border-radius: 20px;
+    box-shadow: 3px 5px 33px#888888;
 }
 
 .tsblogo:hover {
@@ -54,10 +52,19 @@
     position: absolute;
     color: white;
     font-family: BungeeRegular;
-    bottom: 193px;
+    bottom: 172px;
     font-size: 29px;
 }
     
+@media screen and (max-width:1439px){
+    .tsbSoon{
+        bottom: 313px;
+    }
+
+    .tsbButton{
+        bottom: 270px;
+    }
+}
 
 @media screen and (max-width:1023px){
     .Main{
@@ -81,10 +88,72 @@
         font-size: 2em;
         z-index: 2;
     }
+
+    .Main-Containar-Image{
+        box-shadow: none;
+    }
+
+    .Main-Containar-Image video{
+        display: none;
+    } 
+
+    .logoshinytures{
+        width: 90%;
+        position: unset;
+    }
+    
+    .tsbButton{
+        position: unset;
+        width: 40%;
+    }
+
+    .Main-Containar-Image{
+        box-shadow: none;
+        flex-wrap: wrap;
+    }
+
+    .tsbSoon{
+        position: unset;
+        font-size: 22px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .container{
+        padding: 0;
+    }
 }
 
 @media screen and (max-width:480px){
     h1{
         font-size: 1.2em;
+    }
+
+    .Main-Containar-Image video{
+        display: none;
+    } 
+
+    .logoshinytures{
+        width: 90%;
+        position: unset;
+    }
+    
+    .tsbButton{
+        position: unset;
+        width: 65%;
+    }
+
+    .Main-Containar-Image{
+        box-shadow: none;
+        flex-wrap: wrap;
+    }
+
+    .tsbSoon{
+        position: unset;
+        font-size: 22px;
+    }
+
+    .container{
+        padding: 0;
     }
 }

@@ -15,7 +15,7 @@ function Main() {
                     <source src={video} type="video/mp4"/>
                 </video>
                 <img src={logo} className="logoshinytures" alt="logoshinytures"/>
-                <p className="tsbSoon">SOON!</p>
+                <p className="tsbSoon">AVAILABLE SOON!</p>
                 <a href="https://www.sandbox.game/en/play/#play" rel="noopener noreferrer" className="tsbButton" target="_blank"> 
                 <img src={logoTsb} className="tsblogo" alt="logo"/>
                 </a>

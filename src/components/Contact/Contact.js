@@ -14,6 +14,7 @@ function Contact() {
                     <a href="https://www.instagram.com/chimpabastian" rel="noopener noreferrer" className="social-link instagram" target="_blank"> </a>
                     <a href="https://www.linkedin.com/in/fredy-sebastian-rodriguez-rincon-b11239129/" rel="noopener noreferrer" className="social-link linkedin" target="_blank"> </a>
                     <a href="https://steamdb.info/calculator/76561198042289628/?cc=co" rel="noopener noreferrer" className="social-link steam" target="_blank"> </a>
+                    <a href="https://fredyrodriguezr.github.io/my-portfolio/" rel="noopener noreferrer" className="social-link website" target="_blank"> </a>
                 </div>
             </div>
         </div>

@@ -3,6 +3,7 @@
     color: white;
     font-family: BungeeRegular;
     margin: 0;
+    padding-top: 50px;
 }
 
 .GameSystem-details{
@@ -84,7 +85,7 @@
 }
 
 .GameSystem .container{
-    max-width: 1000px;
+    max-width: 1200px;
 }
 
 @media screen and (max-width: 1023px){
@@ -137,14 +138,19 @@
         margin: 0.3em 0;
     }
 
+    .GameSystem-Mechanics{
+        display: flex;
+        justify-content: center;
+    }
+
 }
 
 @media screen and (max-width: 479px){
     .mechanic{
-        width: 260px;
+        width: 366px;
     }
     .mechanic-details {
-        width: 260px;
+        width: 366px;
         font-size: 12px;
     }
 
@@ -160,5 +166,14 @@
 
     .Portafolio-details h2{
         font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 424px){
+    .mechanic{
+        width: 245px;
+    }
+    .mechanic-details {
+        width: 100%;
     }
 }

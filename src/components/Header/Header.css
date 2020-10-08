@@ -54,7 +54,7 @@
     align-items: inherit;
     height: inherit;
     flex-wrap: inherit;
-    padding: 0 0.5em;
+    z-index: 1;
 }
 
 .container.header {
@@ -66,7 +66,7 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(255, 255, 255, 0.8);
     display: none;
     line-height: 40px;
     text-align: center;
@@ -74,7 +74,7 @@
     z-index: 4;
     left: 5px;
     top: 5px;
-    color: white;
+    color: rgb(42, 52, 99);
 }
 
 .App-header .logo {
@@ -122,7 +122,7 @@
     }
     .menu {
         position: fixed;
-        background: rgba(0, 213, 195, 0.8);
+        background: rgba(42, 52, 99, 0.8);
         top: 0;
         left: -100vw;
         width: 100vw;
