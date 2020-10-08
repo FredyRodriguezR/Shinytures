@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Shinytures/static/css/main.f4b15ea9.chunk.css",
-    "main.js": "/Shinytures/static/js/main.c876d40a.chunk.js",
-    "main.js.map": "/Shinytures/static/js/main.c876d40a.chunk.js.map",
+    "main.js": "/Shinytures/static/js/main.985d39af.chunk.js",
+    "main.js.map": "/Shinytures/static/js/main.985d39af.chunk.js.map",
     "runtime-main.js": "/Shinytures/static/js/runtime-main.293480be.js",
     "runtime-main.js.map": "/Shinytures/static/js/runtime-main.293480be.js.map",
     "static/js/2.273e137b.chunk.js": "/Shinytures/static/js/2.273e137b.chunk.js",
     "static/js/2.273e137b.chunk.js.map": "/Shinytures/static/js/2.273e137b.chunk.js.map",
     "index.html": "/Shinytures/index.html",
-    "precache-manifest.cab26aff9c11fd49c1fc673676e8d993.js": "/Shinytures/precache-manifest.cab26aff9c11fd49c1fc673676e8d993.js",
+    "precache-manifest.425e87ce2dc94f2ce93807be19f72d52.js": "/Shinytures/precache-manifest.425e87ce2dc94f2ce93807be19f72d52.js",
     "service-worker.js": "/Shinytures/service-worker.js",
     "static/css/main.f4b15ea9.chunk.css.map": "/Shinytures/static/css/main.f4b15ea9.chunk.css.map",
     "static/js/2.273e137b.chunk.js.LICENSE.txt": "/Shinytures/static/js/2.273e137b.chunk.js.LICENSE.txt",
@@ -17,7 +17,7 @@
     "static/media/Logotipo_shinytures.png": "/Shinytures/static/media/Logotipo_shinytures.976f7be5.png",
     "static/media/Original.png": "/Shinytures/static/media/Original.2a810a63.png",
     "static/media/Shinitures_logo_final_sbx.png": "/Shinytures/static/media/Shinitures_logo_final_sbx.17cf745b.png",
-    "static/media/Shinytures.mp4": "/Shinytures/static/media/Shinytures.3482b293.mp4",
+    "static/media/Shinytures.gif": "/Shinytures/static/media/Shinytures.a7641de6.gif",
     "static/media/Contact.css": "/Shinytures/static/media/website-optimization.64dcce6a.png",
     "static/media/logoLetra.png": "/Shinytures/static/media/logoLetra.509a4fbc.png",
     "static/media/mechanic1.png": "/Shinytures/static/media/mechanic1.0a249fac.png"
@@ -26,6 +26,6 @@
     "static/js/runtime-main.293480be.js",
     "static/js/2.273e137b.chunk.js",
     "static/css/main.f4b15ea9.chunk.css",
-    "static/js/main.c876d40a.chunk.js"
+    "static/js/main.985d39af.chunk.js"
   ]
 }
