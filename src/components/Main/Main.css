@@ -23,12 +23,12 @@
     width: 100%;
 }
 
-.Main-Containar-Image .main-video{
+.main-video{
     border-top-left-radius: 0;
     border-top-right-radius: 0;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
-    opacity: 51%;
+    opacity: 5%;
     width: 100%;
 } 
 
