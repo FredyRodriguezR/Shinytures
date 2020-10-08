@@ -1,6 +1,6 @@
 import React from 'react';
 import './Main.css';
-import video from '../../video/Shynitures.gif'
+import video from '../../video/Shinytures.mp4'
 import logo from '../../images/Logotipo_shinytures.png'
 import logoTsb from '../../images/logoLetra.png'
 
@@ -11,7 +11,9 @@ function Main() {
         <div className="container">
           <div className="Main">
               <div className="Main-Containar-Image">
-                <img src={video} className="main-video" alt="logo"/>
+              <video className="main-video" autoPlay muted loop="loop">
+                    <source src={video} type="video/mp4"/>
+                </video>
                 <img src={logo} className="logoshinytures" alt="logoshinytures"/>
                 <p className="tsbSoon">AVAILABLE SOON!</p>
                 <a href="https://www.sandbox.game/en/play/#play" rel="noopener noreferrer" className="tsbButton" target="_blank"> 
