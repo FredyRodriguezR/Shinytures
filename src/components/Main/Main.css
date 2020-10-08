@@ -22,12 +22,13 @@
     box-shadow: 3px 5px 33px#888888;
 }
 
-.Main-Containar-Image video{
+.Main-Containar-Image .main-video{
     border-top-left-radius: 0;
     border-top-right-radius: 0;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
     opacity: 50%;
+    width: 100%;
 } 
 
 .tsbButton{
@@ -93,7 +94,7 @@
         box-shadow: none;
     }
 
-    .Main-Containar-Image video{
+    .Main-Containar-Image .main-video{
         display: none;
     } 
 
