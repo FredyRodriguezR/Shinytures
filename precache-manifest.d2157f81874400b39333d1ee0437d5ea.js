@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1f7aec496dbc8ceda011f8ab7e675f1",
+    "revision": "cc0d958205bfc969b231157b399268a0",
     "url": "/Shinytures/index.html"
   },
   {
-    "revision": "274594f42b4da06cfea7",
-    "url": "/Shinytures/static/css/main.926ee845.chunk.css"
+    "revision": "51d0e77d1f8f6938e802",
+    "url": "/Shinytures/static/css/main.f101f6c8.chunk.css"
   },
   {
     "revision": "2882a0ebc350d07b8bf6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shinytures/static/js/2.13337f06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "274594f42b4da06cfea7",
+    "revision": "51d0e77d1f8f6938e802",
     "url": "/Shinytures/static/js/main.830b7117.chunk.js"
   },
   {

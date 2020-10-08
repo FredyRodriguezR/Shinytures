@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Shinytures/static/css/main.926ee845.chunk.css",
+    "main.css": "/Shinytures/static/css/main.f101f6c8.chunk.css",
     "main.js": "/Shinytures/static/js/main.830b7117.chunk.js",
     "main.js.map": "/Shinytures/static/js/main.830b7117.chunk.js.map",
     "runtime-main.js": "/Shinytures/static/js/runtime-main.293480be.js",
@@ -8,9 +8,9 @@
     "static/js/2.13337f06.chunk.js": "/Shinytures/static/js/2.13337f06.chunk.js",
     "static/js/2.13337f06.chunk.js.map": "/Shinytures/static/js/2.13337f06.chunk.js.map",
     "index.html": "/Shinytures/index.html",
-    "precache-manifest.25688316311ffe2bda05dacf7bab7e98.js": "/Shinytures/precache-manifest.25688316311ffe2bda05dacf7bab7e98.js",
+    "precache-manifest.d2157f81874400b39333d1ee0437d5ea.js": "/Shinytures/precache-manifest.d2157f81874400b39333d1ee0437d5ea.js",
     "service-worker.js": "/Shinytures/service-worker.js",
-    "static/css/main.926ee845.chunk.css.map": "/Shinytures/static/css/main.926ee845.chunk.css.map",
+    "static/css/main.f101f6c8.chunk.css.map": "/Shinytures/static/css/main.f101f6c8.chunk.css.map",
     "static/js/2.13337f06.chunk.js.LICENSE.txt": "/Shinytures/static/js/2.13337f06.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/Shinytures/static/media/BungeeLayers-Regular.9b64cf96.otf",
     "static/media/Hamburger_icon.svg": "/Shinytures/static/media/Hamburger_icon.b5098bdc.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.293480be.js",
     "static/js/2.13337f06.chunk.js",
-    "static/css/main.926ee845.chunk.css",
+    "static/css/main.f101f6c8.chunk.css",
     "static/js/main.830b7117.chunk.js"
   ]
 }
