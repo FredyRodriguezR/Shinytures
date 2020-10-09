@@ -1,0 +1,37 @@
+.Character{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Container-Carrusel{
+    width: 345px;
+    margin: 40px;
+    background-color: rgb(42, 52, 99);
+    border-radius: 10px;
+}
+
+.red{
+    box-shadow: 3px 5px 33px rgb(255, 206, 195);
+}
+
+.blue{
+    box-shadow: 3px 5px 33px rgb(23, 255, 255);
+}
+
+.green{
+    box-shadow: 3px 5px 33px rgb(203, 255, 96);
+}
+
+.Character-Title{
+    text-align: center;
+    font-family: BungeeRegular;
+    font-weight: bold;
+    color: white;
+}
+
+.prev:hover,
+.next:hover {
+  background-color: rgba(255, 255, 255, 0.8) !important; 
+  color:rgb(42, 52, 99) !important;
+}

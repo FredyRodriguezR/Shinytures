@@ -5,7 +5,9 @@ function Experience(props) {
     return (
         <div className="Experience-details">
             <div className="container">
-                <h2>BLOGS</h2>
+                <div className="Container-GameSystem-Title">
+                    <h1 className="GameSystem-Title">BLOGS</h1>
+                </div>
             </div>
             <div className="Experience">
                 <div className="container">

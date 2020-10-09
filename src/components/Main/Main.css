@@ -18,7 +18,6 @@
 .Main-Containar-Image{
     display: flex;
     justify-content: center;
-    align-items: center;
     box-shadow: 3px 5px 33px#888888;
     width: 100%;
 }

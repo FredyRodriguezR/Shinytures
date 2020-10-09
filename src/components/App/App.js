@@ -5,6 +5,7 @@ import GameSystem from '../GameSystem/GameSystem'
 import dataMechanics from '../../data/gameSystemMechanics.json'
 import Experience from '../Experience/Experience'
 import dataBlogs from '../../data/blogs.json'
+import Character from '../Character/Character'
 import Contact from '../Contact/Contact'
 import Footer from '../Footer/Footer'
 import './App.css';
@@ -27,6 +28,9 @@ function App() {
             </section>
             <section id="blogs">
                 <Experience data={dataBlogs}></Experience>
+            </section>
+            <section id="characters">
+                <Character></Character>
             </section>
             <Contact></Contact>
             <Footer></Footer>
