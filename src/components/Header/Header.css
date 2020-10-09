@@ -97,6 +97,10 @@
 }
 
 @media screen and (max-width: 766px) {
+    .App-header .logo {
+        margin-left: 0;
+    }
+
     .App-header {
         display: block;
         height: auto;

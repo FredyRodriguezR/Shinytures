@@ -3,7 +3,13 @@
     color: white;
     font-family: BungeeRegular;
     margin: 0;
-    padding-top: 50px;
+    padding-top: 100px;
+    margin-bottom: 40px;
+    font-weight: normal;
+}
+
+.Container-GameSystem-Title{
+
 }
 
 .GameSystem-details{
@@ -27,7 +33,7 @@
     box-shadow: 3px 5px 33px#888888;
     border-radius: 10px;
     margin: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 50px;
     padding: 20px;
     background: rgb(42, 52, 99);
     flex-shrink: 0;
@@ -64,6 +70,7 @@
     margin-bottom: 10px;
     color: white;
     font-family: BungeeRegular;
+    font-weight: normal;
 }
 
 .mechanic-technology,.mechanic-date,.mechanic-url{
@@ -76,6 +83,7 @@
     color: white;
     font-family: BungeeInline;
     text-align: justify;
+    font-weight: bold;
 }
 
 .mechanic strong{

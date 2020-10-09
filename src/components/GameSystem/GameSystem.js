@@ -7,7 +7,9 @@ function GameSystem(props) {
     return (
         <>
             <div className="GameSystem">
-                <h1 className="GameSystem-Title">GAME SYSTEM</h1>
+                <div className="Container-GameSystem-Title">
+                    <h1 className="GameSystem-Title">GAME SYSTEM</h1>
+                </div>
                 <div className="container">
                     <div className="GameSystem-Mechanics">
                         {

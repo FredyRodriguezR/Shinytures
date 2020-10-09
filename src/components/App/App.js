@@ -6,6 +6,7 @@ import dataMechanics from '../../data/gameSystemMechanics.json'
 import Experience from '../Experience/Experience'
 import dataBlogs from '../../data/blogs.json'
 import Contact from '../Contact/Contact'
+import Footer from '../Footer/Footer'
 import './App.css';
 
 
@@ -28,6 +29,7 @@ function App() {
                 <Experience data={dataBlogs}></Experience>
             </section>
             <Contact></Contact>
+            <Footer></Footer>
         </>
     );
 }
