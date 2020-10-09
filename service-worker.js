@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Shinytures/precache-manifest.4e1a6c15144fa3df8509a62737d0c068.js"
+  "/Shinytures/precache-manifest.60b221af22f79883f7f83355cf6be424.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6198874c95d76e1bc283fc459aa8fb4d",
+    "revision": "e85f9ae07d1597355906d0eee9fcb54e",
     "url": "/Shinytures/index.html"
   },
   {
-    "revision": "f0604bd7988cb18d6ea4",
-    "url": "/Shinytures/static/css/main.2f7af1c4.chunk.css"
+    "revision": "73afc7e993342537aa44",
+    "url": "/Shinytures/static/css/main.0f882367.chunk.css"
   },
   {
-    "revision": "9c9867abe8e4900e3be9",
-    "url": "/Shinytures/static/js/2.1e8950cf.chunk.js"
+    "revision": "1e8eb69ced52cac7aeeb",
+    "url": "/Shinytures/static/js/2.b35edb72.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Shinytures/static/js/2.1e8950cf.chunk.js.LICENSE.txt"
+    "revision": "70d98da26d6baaf85686927269534b59",
+    "url": "/Shinytures/static/js/2.b35edb72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0604bd7988cb18d6ea4",
-    "url": "/Shinytures/static/js/main.d70f7240.chunk.js"
+    "revision": "73afc7e993342537aa44",
+    "url": "/Shinytures/static/js/main.93515e2b.chunk.js"
   },
   {
     "revision": "eb1c4abb19dc5515dc90",
@@ -56,12 +56,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shinytures/static/media/SupportByTSBwhite.e7e9f7bc.png"
   },
   {
+    "revision": "4f81f7ff1aa1ae108d62304e60edc10f",
+    "url": "/Shinytures/static/media/blueFish.4f81f7ff.png"
+  },
+  {
+    "revision": "89dd98cfabc9d5941f08c9b8b861cad5",
+    "url": "/Shinytures/static/media/blueWhale.89dd98cf.png"
+  },
+  {
     "revision": "ea1b815ecbbd285726fd6cd2f487edc4",
     "url": "/Shinytures/static/media/facebook.ea1b815e.svg"
   },
   {
     "revision": "750dac63675afe3a04bd74fa0a8a1bee",
     "url": "/Shinytures/static/media/github.750dac63.svg"
+  },
+  {
+    "revision": "303bab1447560da00db5b3241aeadac6",
+    "url": "/Shinytures/static/media/greenBabyDino.303bab14.png"
+  },
+  {
+    "revision": "b7947a2855984f1af84e3cf6735a31e9",
+    "url": "/Shinytures/static/media/greenDino.b7947a28.png"
   },
   {
     "revision": "60d166b38db33f894bf7555a199ca010",
@@ -90,6 +106,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4c58f84622015304b544d8694cb7a696",
     "url": "/Shinytures/static/media/mechanic2.4c58f846.mp4"
+  },
+  {
+    "revision": "a9377407fd6f0420f1b1dc1bd93a042f",
+    "url": "/Shinytures/static/media/redMonkey.a9377407.png"
+  },
+  {
+    "revision": "b10d78215702741e4c4b8fd98c3b83a3",
+    "url": "/Shinytures/static/media/redPrimate.b10d7821.png"
   },
   {
     "revision": "ac6e9cdd48e2432bc08e092c7809a8ef",
