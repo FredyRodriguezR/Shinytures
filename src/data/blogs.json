@@ -2,9 +2,9 @@
     "data": 
     [
         {
-            "title": "Blog Test",
-            "url": "https://fredyrodriguezr.github.io/my-portfolio/",
-            "description": "Test Description",
+            "title": "Game Maker Creation",
+            "url": "https://gamemakersandbox.substack.com/p/game-maker-creations-334",
+            "description": "This is a blog where the first advances of Shinytures are shared. It also talks about my experience as a game developer.",
             "imgUrl": "blogs/mechanic1.png"
         }
     ]
