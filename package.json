@@ -2,7 +2,7 @@
   "name": "shynitures-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fredyrodriguezr.github.io/Shinytures",
+  "homepage": "https://www.shinytures.com/",
   "dependencies": {
     "cra-template": "1.0.3",
     "gh-pages": "^3.1.0",
@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && echo www.shinytures.com > ./build/CNAME",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
