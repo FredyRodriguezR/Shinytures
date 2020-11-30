@@ -35,6 +35,9 @@ const Header = forwardRef((props, ref) => {
                         <li>
                             <a className="link" href="#characters">CHARACTERS</a>
                         </li>
+                        <li>
+                            <a className="link" href="#about-me">ABOUT ME</a>
+                        </li>
                     </ol>
                 </nav>
             </div>

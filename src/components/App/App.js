@@ -6,6 +6,7 @@ import dataMechanics from '../../data/gameSystemMechanics.json'
 import Experience from '../Experience/Experience'
 import dataBlogs from '../../data/blogs.json'
 import Character from '../Character/Character'
+import AboutMe from '../AboutMe/AboutMe'
 import Contact from '../Contact/Contact'
 import Footer from '../Footer/Footer'
 import './App.css';
@@ -31,6 +32,9 @@ function App() {
             </section>
             <section id="characters">
                 <Character></Character>
+            </section>
+            <section id="about-me">
+                <AboutMe></AboutMe>
             </section>
             <Contact></Contact>
             <Footer></Footer>

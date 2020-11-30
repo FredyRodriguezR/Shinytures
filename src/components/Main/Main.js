@@ -16,7 +16,7 @@ function Main() {
           </video>
           <img src={logo} className="logoshinytures" alt="logoshinytures" />
           <p className="tsbSoon">AVAILABLE SOON!</p>
-          <a href="https://www.sandbox.game/en/play/#play" rel="noopener noreferrer" className="tsbButton" target="_blank">
+          <a href="https://www.sandbox.game/en/games/top/" rel="noopener noreferrer" className="tsbButton" target="_blank">
             <img src={logoTsb} className="tsblogo" alt="logo" />
           </a>
         </div>

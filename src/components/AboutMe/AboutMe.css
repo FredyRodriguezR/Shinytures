@@ -1,0 +1,166 @@
+.container-cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.container-card-background{
+    background: #3b4148;
+    position: relative;
+    border-radius: 10px;
+    height: 395px;
+    width: 341px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 40px;
+}
+
+.container-card{
+    position: absolute;
+    height: 399px;
+    width: 345px;
+    top: -2px;
+    right: 0;
+    left: -2px;
+    bottom: 0;
+    z-index: -1;
+    border-radius: 12px;
+    
+}
+
+.background-color-epic{
+    background: linear-gradient(180deg,#8252fc 0,#fc52be);
+}
+
+.background-color-legendary{
+    background: linear-gradient(180deg,#ffa836 0,#fc5252);
+}
+
+.background-color-rare{
+    background: linear-gradient(180deg,#00adef 0,#0084ff);
+}
+
+.card-image-container{
+    text-align: center;
+}
+
+.card-image{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.text-rarity{
+    text-transform: capitalize;
+    font-family: BungeeRegular;
+    width: 108px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-top: 10px;
+    border: 1px solid;
+    height: 36px;
+    text-align: center;
+}
+
+.legendary{
+    color: #ffa836;
+}
+
+.epic{
+    color: #8252fc;
+}
+
+.rare{
+    color: #00adef;
+}
+
+.asset-name{
+    color: white;
+    font-family: BungeeRegular;
+    width: 108px;
+    font-size: 14px;
+    text-align: center;
+    width: 250px;
+}
+
+.button-buy{
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+    font-family: BungeeRegular;
+    width: 108px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-top: 10px;
+    border: 1px solid;
+    height: 36px;
+    text-align: center;
+    background-color: #14c7ff;
+}
+
+.container-card-bottom{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.container-chimpa{
+    text-align: center;
+}
+
+.image-chimpa{
+    border-radius: 200px;
+    width: 230px;
+}
+
+.Assets-Title{
+    font-family: BungeeRegular;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+}
+
+.container-about-text{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.About-me-text{
+    width: 80%;
+    font-family: BungeeInLINE;
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.container-button-profile{
+    display: flex;
+    justify-content: center;
+}
+
+.profile{
+    width: 220px;
+}
+
+@media screen and (max-width: 424px){
+    .container-card{
+        width: 299px;
+        
+    }
+}
+
+@media screen and (max-width: 320px){
+    .container-card{
+        width: 284px;
+        
+    }
+
+    .About-me-text{
+        font-size: 0.8rem;
+    }
+}
+
