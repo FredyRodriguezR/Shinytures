@@ -25,7 +25,7 @@ function AboutMe() {
                 <a href="https://www.sandbox.game/en/users/chimpabastian/0acccc51-b9ff-4b3f-bb2b-6ce20dd20053/" 
                 rel="noopener noreferrer" className="button-buy profile" target="_blank">SANDBOX PROFILE</a>
             </div>
-            <h2 className="Assets-Title">ASSETS DESTACADOS</h2>
+            <h2 className="Assets-Title">FEATURED ASSETS</h2>
             <div className="container-cards">
                 <Card
                     color="background-color-legendary"
