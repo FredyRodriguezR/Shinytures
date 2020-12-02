@@ -19,7 +19,7 @@ function AboutMe() {
             </div>
             <div className="container-about-text">
                 <p className="About-me-text">Hi everyone, I’m Chimpabastian, a video game lover. It was due to this passion I feel for the games that I prepared myself to develop them. This has been my career for more than three years, which has been one of the most amazing experiences in my life. The indie video games industry allows you to form yourself as a generalist and although my speciality is developing, thanks to this wonderful world, I’ve been able to work also as a game designer, artist, full stack developer and in the marketing area.</p>
-                <p className="About-me-text">Si les gusta el trabajo que realizo como Voxel Artist en un futuro muy cercano lo podran comprar en el siguiente enlace:</p>
+                <p className="About-me-text"> If you like my work as a Voxel Artist, in a near future you will be able to buy it in the following link:</p>
             </div>
             <div className="container-button-profile">
                 <a href="https://www.sandbox.game/en/users/chimpabastian/0acccc51-b9ff-4b3f-bb2b-6ce20dd20053/" 

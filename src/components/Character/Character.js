@@ -21,7 +21,7 @@ function Character() {
     return (
         <div className="container">
             <div className="Container-GameSystem-Title">
-                <h1 className="GameSystem-Title">CHARACTERS</h1>
+                <h1 className="GameSystem-Title">SHINYTURES</h1>
             </div>
             <div className="Character">
                 <div className="Container-Carrusel red">

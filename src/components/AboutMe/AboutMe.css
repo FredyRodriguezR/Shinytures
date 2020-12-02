@@ -144,6 +144,7 @@
 
 .profile{
     width: 220px;
+    margin-bottom: 60px;
 }
 
 @media screen and (max-width: 424px){
