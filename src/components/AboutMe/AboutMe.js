@@ -1,8 +1,8 @@
 import React from 'react';
 import './AboutMe.css';
-import owl from '../../images/assets/previewOwl.png'
-import triton from '../../images/assets/previewTriton.png'
-import spaceship from '../../images/assets/previewSpaceship.png'
+import owl from '../../images/assets/previewOwl.webp'
+import triton from '../../images/assets/previewTriton.webp'
+import spaceship from '../../images/assets/previewSpaceship.webp'
 import chimpabastian from '../../images/chimpabastian.webp'
 
 function AboutMe() {
@@ -30,7 +30,7 @@ function AboutMe() {
                 <Card
                     color="background-color-legendary"
                     image={triton} rarity="legendary"
-                    name="Zilinis The Triton Prince"
+                    name="Zilnis The Triton Prince"
                     url="https://www.sandbox.game/en/assets/zilnis-the-triton-prince/07ead66b-fe19-4d3e-9d15-fbe1df85f5fd/">
                 </Card>
                 <Card
