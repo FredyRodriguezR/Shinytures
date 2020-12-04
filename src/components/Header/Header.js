@@ -1,5 +1,5 @@
 import React, { useState, forwardRef, useImperativeHandle } from 'react';
-import logo from '../../images/Original.png';
+import logo from '../../images/Original.webp';
 import './Header.css';
 
 
