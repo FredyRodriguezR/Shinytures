@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.451575d7.chunk.css",
-    "main.js": "/static/js/main.247015ee.chunk.js",
-    "main.js.map": "/static/js/main.247015ee.chunk.js.map",
+    "main.js": "/static/js/main.19bd341a.chunk.js",
+    "main.js.map": "/static/js/main.19bd341a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3d587c06.js",
     "runtime-main.js.map": "/static/js/runtime-main.3d587c06.js.map",
     "static/js/2.45f7113c.chunk.js": "/static/js/2.45f7113c.chunk.js",
     "static/js/2.45f7113c.chunk.js.map": "/static/js/2.45f7113c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a33a8d03e73ea4b364a925fc27c37c33.js": "/precache-manifest.a33a8d03e73ea4b364a925fc27c37c33.js",
+    "precache-manifest.700d8764e88fc4fa3212fbd8974fcfb1.js": "/precache-manifest.700d8764e88fc4fa3212fbd8974fcfb1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.451575d7.chunk.css.map": "/static/css/main.451575d7.chunk.css.map",
     "static/js/2.45f7113c.chunk.js.LICENSE.txt": "/static/js/2.45f7113c.chunk.js.LICENSE.txt",
@@ -34,9 +34,9 @@
     "static/media/mechanic7.mp4": "/static/media/mechanic7.fa6b686d.mp4",
     "static/media/mechanic8.mp4": "/static/media/mechanic8.6a9d8b49.mp4",
     "static/media/mechanic9.mp4": "/static/media/mechanic9.9cfde77d.mp4",
-    "static/media/previewOwl.png": "/static/media/previewOwl.e3b9ff7e.png",
-    "static/media/previewSpaceship.png": "/static/media/previewSpaceship.438c2333.png",
-    "static/media/previewTriton.png": "/static/media/previewTriton.d99ec910.png",
+    "static/media/previewOwl.webp": "/static/media/previewOwl.2b6122a9.webp",
+    "static/media/previewSpaceship.webp": "/static/media/previewSpaceship.d160f7f7.webp",
+    "static/media/previewTriton.webp": "/static/media/previewTriton.359876a5.webp",
     "static/media/redMonkey.webp": "/static/media/redMonkey.c33f66a0.webp",
     "static/media/redPrimate.webp": "/static/media/redPrimate.e876c606.webp",
     "static/media/screenshoot.webp": "/static/media/screenshoot.fd78219f.webp"
@@ -45,6 +45,6 @@
     "static/js/runtime-main.3d587c06.js",
     "static/js/2.45f7113c.chunk.js",
     "static/css/main.451575d7.chunk.css",
-    "static/js/main.247015ee.chunk.js"
+    "static/js/main.19bd341a.chunk.js"
   ]
 }
