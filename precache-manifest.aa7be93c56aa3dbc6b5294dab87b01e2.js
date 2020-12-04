@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1f7f548c230f623bcba00e505cdafc7",
+    "revision": "0c61911e8f41ce822e68d4e0674e5a20",
     "url": "/index.html"
   },
   {
-    "revision": "d14c4e278313ce49ca15",
-    "url": "/static/css/main.451575d7.chunk.css"
+    "revision": "a3a22e05433e667cc561",
+    "url": "/static/css/main.487ff2bb.chunk.css"
   },
   {
     "revision": "a4df2092e601e1e5ee1b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.45f7113c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d14c4e278313ce49ca15",
-    "url": "/static/js/main.19bd341a.chunk.js"
+    "revision": "a3a22e05433e667cc561",
+    "url": "/static/js/main.d3b16eb5.chunk.js"
   },
   {
     "revision": "8e778c9dcfd857503e4d",
@@ -92,6 +92,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logoLetra.fe003bc6.webp"
   },
   {
+    "revision": "a0ec6b18bfed0be23b035c5c244188ad",
+    "url": "/static/media/logoSteam.a0ec6b18.webp"
+  },
+  {
     "revision": "f88e340e05dde89154c8e859d1a253cf",
     "url": "/static/media/logoSteam.f88e340e.png"
   },
@@ -160,7 +164,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/twitter.ac6e9cdd.svg"
   },
   {
-    "revision": "64dcce6a378676ba0eed995ebc590b92",
-    "url": "/static/media/website-optimization.64dcce6a.png"
+    "revision": "0b8cf6f44141e79d9d5693ecf7ab0bc2",
+    "url": "/static/media/website-optimization.0b8cf6f4.webp"
   }
 ]);
