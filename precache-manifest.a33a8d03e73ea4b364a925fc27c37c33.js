@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "845d06e33daf821bdfd6b3c3262b0bd0",
+    "revision": "f50f14a45edf4def467ee7cbd44d23e1",
     "url": "/index.html"
   },
   {
-    "revision": "6f3e02bb7bc5fb43c441",
+    "revision": "b07bea60431d84132cc3",
     "url": "/static/css/main.451575d7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.45f7113c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f3e02bb7bc5fb43c441",
-    "url": "/static/js/main.fc479451.chunk.js"
+    "revision": "b07bea60431d84132cc3",
+    "url": "/static/js/main.247015ee.chunk.js"
   },
   {
     "revision": "8e778c9dcfd857503e4d",
@@ -36,20 +36,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Hamburger_icon.b5098bdc.svg"
   },
   {
-    "revision": "75c5de8c94cde5ad223808f02a488e91",
-    "url": "/static/media/Logotipo_shinytures.75c5de8c.webp"
+    "revision": "dd78a6aadf40d491fc9180158d5ebdf6",
+    "url": "/static/media/Logotipo_shinytures.dd78a6aa.webp"
   },
   {
-    "revision": "2a810a631c1fa4b851d377e08c5e3782",
-    "url": "/static/media/Original.2a810a63.png"
+    "revision": "037f9e0c909a2869eab1f63b0d5c641c",
+    "url": "/static/media/Original.037f9e0c.webp"
   },
   {
     "revision": "3482b29327983cab65b945da9372dd98",
     "url": "/static/media/Shinytures.3482b293.mp4"
   },
   {
-    "revision": "ef73ebdd48f94f87f8341a1743360eb8",
-    "url": "/static/media/SupportByTSBwhite.ef73ebdd.webp"
+    "revision": "3233066784b30b9b97a55be3a335b39b",
+    "url": "/static/media/SupportByTSBwhite.32330667.webp"
   },
   {
     "revision": "93d6c152bcd11305217884c7c0cebf79",
@@ -88,16 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/linkedin-logo.e966da8d.svg"
   },
   {
-    "revision": "60896e2ab1a09bbb78a7b2a79107ed42",
-    "url": "/static/media/logoLetra.60896e2a.webp"
+    "revision": "fe003bc630dfa6a3779737703c9287cb",
+    "url": "/static/media/logoLetra.fe003bc6.webp"
   },
   {
     "revision": "f88e340e05dde89154c8e859d1a253cf",
     "url": "/static/media/logoSteam.f88e340e.png"
-  },
-  {
-    "revision": "0a249facaf641ac1f4955ec2763a8491",
-    "url": "/static/media/mechanic1.0a249fac.png"
   },
   {
     "revision": "16ac599f7ee7b28ea825c4bd06380a9d",
@@ -154,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e876c6063568e8c76bba8a2dff36d833",
     "url": "/static/media/redPrimate.e876c606.webp"
+  },
+  {
+    "revision": "fd78219f7ac36e9e468c8451433a7d5e",
+    "url": "/static/media/screenshoot.fd78219f.webp"
   },
   {
     "revision": "ac6e9cdd48e2432bc08e092c7809a8ef",
