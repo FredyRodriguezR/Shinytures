@@ -38,12 +38,12 @@
 }
 
 .social-link.steam{
-    background-image: url('../../images/logoSteam.png');
+    background-image: url('../../images/logoSteam.webp');
     background-size: cover;
 }
 
 .social-link.website{
-    background-image: url('../../images/website-optimization.png');
+    background-image: url('../../images/website-optimization.webp');
     background-size: cover;
 }
 
