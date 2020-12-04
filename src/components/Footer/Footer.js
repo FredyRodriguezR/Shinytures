@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import logoTSB from '../../images/SupportByTSBwhite.png'
+import logoTSB from '../../images/SupportByTSBwhite.webp'
 
 
 

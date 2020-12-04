@@ -3,18 +3,18 @@ import './Character.css';
 import Carousel from 'react-hook-carousel'
 
 const slider = [
-    { image: require("../../images/shinytures/redMonkey.png"), alt: "red shinyture" },
-    { image: require("../../images/shinytures/redPrimate.png"), alt: "red shinyture evo" }
+    { image: require("../../images/shinytures/redMonkey.webp"), alt: "red shinyture" },
+    { image: require("../../images/shinytures/redPrimate.webp"), alt: "red shinyture evo" }
 ];
 
 const slider2 = [
-    { image: require("../../images/shinytures/blueFish.png"), alt: "blue shinyture" },
-    { image: require("../../images/shinytures/blueWhale.png"), alt: "blue shinyture evo" }
+    { image: require("../../images/shinytures/blueFish.webp"), alt: "blue shinyture" },
+    { image: require("../../images/shinytures/blueWhale.webp"), alt: "blue shinyture evo" }
 ];
 
 const slider3 = [
-    { image: require("../../images/shinytures/greenBabyDino.png"), alt: "green shinyture" },
-    { image: require("../../images/shinytures/greenDino.png"), alt: "green shinyture evo" }
+    { image: require("../../images/shinytures/greenBabyDino.webp"), alt: "green shinyture" },
+    { image: require("../../images/shinytures/greenDino.webp"), alt: "green shinyture evo" }
 ];
 
 function Character() {

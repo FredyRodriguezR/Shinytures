@@ -1,8 +1,8 @@
 import React from 'react';
 import './Main.css';
 import video from '../../video/Shinytures.mp4'
-import logo from '../../images/Logotipo_shinytures.png'
-import logoTsb from '../../images/logoLetra.png'
+import logo from '../../images/Logotipo_shinytures.webp'
+import logoTsb from '../../images/logoLetra.webp'
 
 
 
