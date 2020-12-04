@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ebab5247b464f22ad172394536c018c",
+    "revision": "845d06e33daf821bdfd6b3c3262b0bd0",
     "url": "/index.html"
   },
   {
-    "revision": "60c8b09ba9a16d34e5e1",
+    "revision": "6f3e02bb7bc5fb43c441",
     "url": "/static/css/main.451575d7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.45f7113c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60c8b09ba9a16d34e5e1",
-    "url": "/static/js/main.bdd1475e.chunk.js"
+    "revision": "6f3e02bb7bc5fb43c441",
+    "url": "/static/js/main.fc479451.chunk.js"
   },
   {
     "revision": "8e778c9dcfd857503e4d",
@@ -36,32 +36,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Hamburger_icon.b5098bdc.svg"
   },
   {
-    "revision": "976f7be5233189c0ef9a7f39dcedf651",
-    "url": "/static/media/Logotipo_shinytures.976f7be5.png"
+    "revision": "75c5de8c94cde5ad223808f02a488e91",
+    "url": "/static/media/Logotipo_shinytures.75c5de8c.webp"
   },
   {
     "revision": "2a810a631c1fa4b851d377e08c5e3782",
     "url": "/static/media/Original.2a810a63.png"
   },
   {
-    "revision": "17cf745ba1f8f2fad2aa863088eed5bd",
-    "url": "/static/media/Shinitures_logo_final_sbx.17cf745b.png"
-  },
-  {
     "revision": "3482b29327983cab65b945da9372dd98",
     "url": "/static/media/Shinytures.3482b293.mp4"
   },
   {
-    "revision": "e7e9f7bc9d0499a07f2f55c2fb79b241",
-    "url": "/static/media/SupportByTSBwhite.e7e9f7bc.png"
+    "revision": "ef73ebdd48f94f87f8341a1743360eb8",
+    "url": "/static/media/SupportByTSBwhite.ef73ebdd.webp"
   },
   {
-    "revision": "4f81f7ff1aa1ae108d62304e60edc10f",
-    "url": "/static/media/blueFish.4f81f7ff.png"
+    "revision": "93d6c152bcd11305217884c7c0cebf79",
+    "url": "/static/media/blueFish.93d6c152.webp"
   },
   {
-    "revision": "89dd98cfabc9d5941f08c9b8b861cad5",
-    "url": "/static/media/blueWhale.89dd98cf.png"
+    "revision": "f227bc8016b7d9e14e3ceec30a9111c8",
+    "url": "/static/media/blueWhale.f227bc80.webp"
   },
   {
     "revision": "065306b0f5e7d4f12a6b03b3accbd55b",
@@ -76,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/github.750dac63.svg"
   },
   {
-    "revision": "303bab1447560da00db5b3241aeadac6",
-    "url": "/static/media/greenBabyDino.303bab14.png"
+    "revision": "60c84c2690f0dec9818cf81d332745d3",
+    "url": "/static/media/greenBabyDino.60c84c26.webp"
   },
   {
-    "revision": "b7947a2855984f1af84e3cf6735a31e9",
-    "url": "/static/media/greenDino.b7947a28.png"
+    "revision": "df58d688fbb953f8a35204f6795e8a06",
+    "url": "/static/media/greenDino.df58d688.webp"
   },
   {
     "revision": "60d166b38db33f894bf7555a199ca010",
@@ -92,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/linkedin-logo.e966da8d.svg"
   },
   {
-    "revision": "509a4fbc4637f8422d427de48ac8be23",
-    "url": "/static/media/logoLetra.509a4fbc.png"
+    "revision": "60896e2ab1a09bbb78a7b2a79107ed42",
+    "url": "/static/media/logoLetra.60896e2a.webp"
   },
   {
     "revision": "f88e340e05dde89154c8e859d1a253cf",
@@ -152,12 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/previewTriton.d99ec910.png"
   },
   {
-    "revision": "a9377407fd6f0420f1b1dc1bd93a042f",
-    "url": "/static/media/redMonkey.a9377407.png"
+    "revision": "c33f66a0aa3b26b4c0a1a8bac4844eda",
+    "url": "/static/media/redMonkey.c33f66a0.webp"
   },
   {
-    "revision": "b10d78215702741e4c4b8fd98c3b83a3",
-    "url": "/static/media/redPrimate.b10d7821.png"
+    "revision": "e876c6063568e8c76bba8a2dff36d833",
+    "url": "/static/media/redPrimate.e876c606.webp"
   },
   {
     "revision": "ac6e9cdd48e2432bc08e092c7809a8ef",
