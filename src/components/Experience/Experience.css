@@ -26,7 +26,7 @@
     border-radius: 10px;
     flex-shrink: 0;
     overflow: hidden;
-    box-shadow: 3px 5px 33px#888888;
+    box-shadow: 3px 5px 33px#fff;
     transition: 300ms;
 }
 
