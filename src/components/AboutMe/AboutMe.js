@@ -38,7 +38,7 @@ function AboutMe() {
                     image={king}
                     rarity="epic"
                     name="Crazy King"
-                    url="https://www.sandbox.game/en/assets/owlytrin/051626f6-f0ae-4a1c-8538-0736a4675be0/">
+                    url="https://www.sandbox.game/en/assets/crazy-king/0c44c456-f6f3-457c-80af-5072c0fa2f27/">
                 </Card>
                 <Card
                     color="background-color-rare"
