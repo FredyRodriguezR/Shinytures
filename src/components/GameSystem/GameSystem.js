@@ -12,10 +12,10 @@ function GameSystem(props) {
                 </div>
                 <div className="container">
                     <div className="GameSystem-Mechanics">
-                        {
-                            props.data.data.map((mechanic, index) => {
-                                return <Mechanic key={index} mechanic={mechanic} />
-                            })}
+                    <iframe  className="iframe-Video"
+                        src="https://www.youtube.com/embed/QcOMz9NnX7M?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" 
+                        frameborder="0" allow="autoplay; encrypted-media" AllowFullScreen>
+                    </iframe>
                     </div>
                 </div>
             </div>

@@ -2,57 +2,9 @@
     "data": [
         {
             "urlOn": false,
-            "title": "Hunting Monsters:",
-            "description": "The player can attack the monsters that live outside the ranch to drop energy for the Shinytures.",
-            "imgUrl": "mechanic1.mp4"
-        },
-        {
-            "urlOn": false,
-            "title": "Hatching Eggs:",
-            "description": "The player can use the hatching machines so that the new Shinytures can be born.",
-            "imgUrl": "mechanic2.mp4"
-        },
-        {
-            "urlOn": false,
-            "title": "Gathering Berries:",
-            "description": "The player can find the Berry Trees on the planet to gather a berry.",
-            "imgUrl": "mechanic3.mp4"
-        },
-        {
-            "urlOn": false,
-            "title": "Evolving the Shinytures:",
-            "description": "The player can use the Shinytures' DNA and mix it with a berry or energy to create a new evolution of this Shinyture.",
-            "imgUrl": "mechanic4.mp4"
-        },
-        {
-            "urlOn": false,
-            "title": "Jump Floating Platforms:",
-            "description": "When the player is on this planet, he will have to jump on mobile platforms to reach new locations.",
-            "imgUrl": "mechanic5.mp4"
-        },
-        {
-            "urlOn": false,
-            "title": "Climb Walls:",
-            "description": "The player can climb certain walls to reach unknown places.",
-            "imgUrl": "mechanic6.mp4"
-        },
-        {
-            "urlOn": false,
-            "title": "Taking Damage:",
-            "description": "The player can be burned by touching the lava or being attacked by the monsters that inhabit the planet.",
-            "imgUrl": "mechanic7.mp4"
-        },
-        {
-            "urlOn": false,
-            "title": "Healing:",
-            "description": "The player regenerates his life when standing on the healing platforms or when inside the Headquarters.",
-            "imgUrl": "mechanic8.mp4"
-        },
-        {
-            "urlOn": false,
-            "title": "Respawn:",
-            "description": "Every time the player’s life reaches 0, he will appear in the organization’s headquarters.",
-            "imgUrl": "mechanic9.mp4"
+            "title": "Mechanics:",
+            "description": "In Shinytures, you'll need to do a lot of tasks in your mission as a breeder. Don't miss this video! Here you can see everything you can do in this spacial adventure.",
+            "imgUrl": "480.mp4"
         }
     ]
 }

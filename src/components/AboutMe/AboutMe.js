@@ -1,6 +1,6 @@
 import React from 'react';
 import './AboutMe.css';
-import owl from '../../images/assets/previewOwl.webp'
+import king from '../../images/assets/crazyking.webp'
 import triton from '../../images/assets/previewTriton.webp'
 import spaceship from '../../images/assets/previewSpaceship.webp'
 import chimpabastian from '../../images/chimpabastian.webp'
@@ -35,9 +35,9 @@ function AboutMe() {
                 </Card>
                 <Card
                     color="background-color-epic"
-                    image={owl}
+                    image={king}
                     rarity="epic"
-                    name="Owlytrin"
+                    name="Crazy King"
                     url="https://www.sandbox.game/en/assets/owlytrin/051626f6-f0ae-4a1c-8538-0736a4675be0/">
                 </Card>
                 <Card
