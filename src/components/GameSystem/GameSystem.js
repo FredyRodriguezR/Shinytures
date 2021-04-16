@@ -13,7 +13,7 @@ function GameSystem(props) {
                 <div className="container">
                     <div className="GameSystem-Mechanics">
                     <iframe  className="iframe-Video"
-                        src="https://www.youtube.com/embed/QcOMz9NnX7M?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" 
+                        src="https://www.youtube.com/embed/QcOMz9NnX7M" 
                         frameborder="0" allow="autoplay; encrypted-media" AllowFullScreen>
                     </iframe>
                     </div>
