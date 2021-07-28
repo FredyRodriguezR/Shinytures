@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "700333c5d0b1aa3abd4602741df5e9ad",
+    "revision": "15cf14354071c0e702ed414269acaca4",
     "url": "/index.html"
   },
   {
-    "revision": "dd744761f0a4884a5458",
-    "url": "/static/css/main.61fe2114.chunk.css"
+    "revision": "70187c02d127505c72a8",
+    "url": "/static/css/main.cffcac55.chunk.css"
   },
   {
-    "revision": "a4df2092e601e1e5ee1b",
-    "url": "/static/js/2.45f7113c.chunk.js"
+    "revision": "613aa1de2cf6df6984e0",
+    "url": "/static/js/2.518f342b.chunk.js"
   },
   {
     "revision": "70d98da26d6baaf85686927269534b59",
-    "url": "/static/js/2.45f7113c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.518f342b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd744761f0a4884a5458",
-    "url": "/static/js/main.35e2de8d.chunk.js"
+    "revision": "70187c02d127505c72a8",
+    "url": "/static/js/main.4edd2cd0.chunk.js"
   },
   {
     "revision": "8e778c9dcfd857503e4d",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/SupportByTSBwhite.32330667.webp"
   },
   {
+    "revision": "52c7282d29d731e0b65496e6e411a2b2",
+    "url": "/static/media/The_Sandbox_Characters_2.52c7282d.png"
+  },
+  {
     "revision": "93d6c152bcd11305217884c7c0cebf79",
     "url": "/static/media/blueFish.93d6c152.webp"
   },
@@ -66,6 +70,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29479f7eb504eb1873fb2eda20bdbb97",
     "url": "/static/media/crazyking.29479f7e.webp"
+  },
+  {
+    "revision": "d50c26de52d870377d0d39ea7c182bef",
+    "url": "/static/media/discord-circle.d50c26de.webp"
+  },
+  {
+    "revision": "37636f7fa8895e5c9bac76d9a9841b19",
+    "url": "/static/media/discover-playmap.37636f7f.webp"
+  },
+  {
+    "revision": "71facaae6571fa856d174e7aeaef7bfb",
+    "url": "/static/media/facebook-circle.71facaae.webp"
   },
   {
     "revision": "ea1b815ecbbd285726fd6cd2f487edc4",
@@ -104,6 +120,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/logoSteam.f88e340e.png"
   },
   {
+    "revision": "43df9196ea60615785cd664e555a7c45",
+    "url": "/static/media/medium-circle.43df9196.webp"
+  },
+  {
     "revision": "2b6122a931254bb2a45a7b5139021c4f",
     "url": "/static/media/previewOwl.2b6122a9.webp"
   },
@@ -128,11 +148,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/screenshoot.fd78219f.webp"
   },
   {
+    "revision": "770f3ee58273f3d67d844734c695b1a7",
+    "url": "/static/media/social.770f3ee5.webp"
+  },
+  {
+    "revision": "806a77269bc41d2df2aada48ca9b4b76",
+    "url": "/static/media/telegram-circle.806a7726.webp"
+  },
+  {
+    "revision": "fae9a1e6c58d4b0cafd667a4022d89e5",
+    "url": "/static/media/twitch.fae9a1e6.svg"
+  },
+  {
+    "revision": "a20941a8b65d1ed495875abea35b07cf",
+    "url": "/static/media/twitter-circle.a20941a8.webp"
+  },
+  {
     "revision": "ac6e9cdd48e2432bc08e092c7809a8ef",
     "url": "/static/media/twitter.ac6e9cdd.svg"
   },
   {
     "revision": "0b8cf6f44141e79d9d5693ecf7ab0bc2",
     "url": "/static/media/website-optimization.0b8cf6f4.webp"
+  },
+  {
+    "revision": "9b38cf5ed5c17e25938d128bb2578976",
+    "url": "/static/media/youtube.9b38cf5e.svg"
   }
 ]);
