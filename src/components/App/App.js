@@ -9,6 +9,7 @@ import Character from '../Character/Character'
 import AboutMe from '../AboutMe/AboutMe'
 import Contact from '../Contact/Contact'
 import Footer from '../Footer/Footer'
+import CTA from '../CTA/CTA'
 import './App.css';
 
 
@@ -23,6 +24,9 @@ function App() {
             </div>
             <section id="main">
                 <Main></Main>
+            </section>
+            <section id="cta">
+                <CTA></CTA>
             </section>
             <section id="gamesystem">
                 <GameSystem data={dataMechanics}></GameSystem>

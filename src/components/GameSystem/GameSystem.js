@@ -3,7 +3,7 @@ import './GameSystem.css';
 
 
 
-function GameSystem(props) {
+function GameSystem() {
     return (
         <>
             <div className="GameSystem">
@@ -12,9 +12,9 @@ function GameSystem(props) {
                 </div>
                 <div className="container">
                     <div className="GameSystem-Mechanics">
-                    <iframe  className="iframe-Video"
+                    <iframe  title="Shinytures Gameplay" className="iframe-Video"
                         src="https://www.youtube.com/embed/QcOMz9NnX7M" 
-                        frameborder="0" allow="autoplay; encrypted-media" AllowFullScreen>
+                        frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen>
                     </iframe>
                     </div>
                 </div>
@@ -23,7 +23,8 @@ function GameSystem(props) {
     );
 }
 
-function Mechanic(props) {
+
+/* function Mechanic(props) {
     return (
         <article className="mechanic">
             <div className="mechanic-details">
@@ -39,6 +40,6 @@ function Mechanic(props) {
             </figure>
         </article>
     );
-}
+} */
 
 export default GameSystem;

@@ -13,6 +13,18 @@
     padding: 7px;
 }
 
+.GameSystem{
+    max-width: 1500px;
+    flex: 1 1;
+    margin: 0 auto;
+    display: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+    height: inherit;
+    flex-wrap: inherit;
+    z-index: 1;
+}
+
 .Container-GameSystem-Title{
     display: flex;
     justify-content: center;
