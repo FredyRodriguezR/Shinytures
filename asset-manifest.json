@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.cffcac55.chunk.css",
-    "main.js": "/static/js/main.4edd2cd0.chunk.js",
-    "main.js.map": "/static/js/main.4edd2cd0.chunk.js.map",
+    "main.js": "/static/js/main.461414d0.chunk.js",
+    "main.js.map": "/static/js/main.461414d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3d587c06.js",
     "runtime-main.js.map": "/static/js/runtime-main.3d587c06.js.map",
     "static/js/2.518f342b.chunk.js": "/static/js/2.518f342b.chunk.js",
     "static/js/2.518f342b.chunk.js.map": "/static/js/2.518f342b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bef71c285210eb5e6f7e35f99d974b65.js": "/precache-manifest.bef71c285210eb5e6f7e35f99d974b65.js",
+    "precache-manifest.20d3dffa42e6acb92fb6e0e7d4ee83d3.js": "/precache-manifest.20d3dffa42e6acb92fb6e0e7d4ee83d3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.cffcac55.chunk.css.map": "/static/css/main.cffcac55.chunk.css.map",
     "static/js/2.518f342b.chunk.js.LICENSE.txt": "/static/js/2.518f342b.chunk.js.LICENSE.txt",
@@ -21,7 +21,7 @@
     "static/media/The_Sandbox_Characters_2.png": "/static/media/The_Sandbox_Characters_2.52c7282d.png",
     "static/media/blueFish.webp": "/static/media/blueFish.93d6c152.webp",
     "static/media/blueWhale.webp": "/static/media/blueWhale.f227bc80.webp",
-    "static/media/chimpabastian.webp": "/static/media/chimpabastian.065306b0.webp",
+    "static/media/chimpabastian.webp": "/static/media/chimpabastian.f827d793.webp",
     "static/media/crazyking.webp": "/static/media/crazyking.29479f7e.webp",
     "static/media/discord-circle.webp": "/static/media/discord-circle.d50c26de.webp",
     "static/media/discover-playmap.webp": "/static/media/discover-playmap.37636f7f.webp",
@@ -48,6 +48,6 @@
     "static/js/runtime-main.3d587c06.js",
     "static/js/2.518f342b.chunk.js",
     "static/css/main.cffcac55.chunk.css",
-    "static/js/main.4edd2cd0.chunk.js"
+    "static/js/main.461414d0.chunk.js"
   ]
 }
